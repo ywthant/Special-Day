@@ -509,11 +509,11 @@ transition:opacity 0.4s ease;
 <h3 class="font-serif text-2xl" style="color:#b76e79">A Letter For You</h3>
 </div>
 <div class="space-y-4 text-gray-700 leading-relaxed">
-<p class="font-serif text-lg" style="color:#b76e79">My Dearest,</p>
+<p class="font-serif text-lg" style="color:#b76e79">The Birthday Angel🪽,</p>
 <p>On this beautiful day, I want you to know just how incredibly special you are. Your kindness lights up every room, your laughter is the melody I never tire of hearing, and your presence makes the world a more beautiful place.</p>
 <p>May this year bring you countless reasons to smile, adventures that fill your heart with wonder, and moments that become cherished memories. You deserve all the love, happiness, and magic that life has to offer.</p>
 <p>Happy Birthday to someone who means the world to me. Here is to you, today and always.</p>
-<p class="font-serif text-right mt-6" style="color:#b76e79">With all my love,<br>❤️</p>
+<p class="font-serif text-right mt-6" style="color:#b76e79"><br>❤️</p>
 </div>
 </div>
 </div>
